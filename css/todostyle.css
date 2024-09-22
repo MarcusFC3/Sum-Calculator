@@ -108,6 +108,8 @@ input{
     border-style:hidden;
     text-align: center;
     color: black;
+    display: flex;  
+    justify-content: center;  
 }
 input[type="button"]{
    
